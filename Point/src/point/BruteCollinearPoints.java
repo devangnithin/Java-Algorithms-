@@ -2,11 +2,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 
-/**
- * A BruteForce solution for finding collinear points in a set of points.
- *
- * @author ISchwarz
- */
 public class BruteCollinearPoints {
 
     private LineSegment[] segments;
