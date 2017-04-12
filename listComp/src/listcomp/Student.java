@@ -43,6 +43,7 @@ public class Student {
         int r = 129;
         for(int i = 0; i < 13; i++ )
         {  
+            s1[i] = new Student();           
             s1[i].setAge(a++); 
             s1[i].setName(n);
             s1[i].setRollNumber(r++);
