@@ -4,8 +4,7 @@ import java.util.*;
 /**
  * A fst solution of finding colinear points in a set of points.
  *
- * @author ISchwarz
- */
+*/
 package point;
 
 public class FastCollinearPoints {
